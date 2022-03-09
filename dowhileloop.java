@@ -17,7 +17,7 @@ public class dowhileloop {
 
             System.out.println("ch =" + ch);
 
-        }while((ch == 'a') || (ch == 'e') || (ch =='i')|| (ch =='o') || (ch == 'u'));
+        }while((ch == 'A') || (ch == 'E') || (ch =='I')|| (ch =='o') || (ch == 'u'));
 
         System.out.println("sorry incorrect");??????
 
